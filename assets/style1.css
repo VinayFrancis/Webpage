@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	font-size:40px;
+	
+}
+
+.unit {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+ .cell{
+ 	
+ 	padding-top: 20px;
+ 	padding-right: 20px;
+ }
+
+ 
